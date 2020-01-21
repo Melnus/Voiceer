@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66c234d987ce84d498c0cdd3b7a2d4e7, type: 3}
+  m_Name: SatouSasara
+  m_EditorClassIdentifier: 
+  voiceSetList:
+  - trigger: 0
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: 388e52852c8eaaf4387496984db4f7be, type: 3}
+      - {fileID: 8300000, guid: e6e03d26a1abab641b45f1f678e035bb, type: 3}
+      - {fileID: 8300000, guid: 7e1a5a5bb1759144d9700cc4a2237c71, type: 3}
+      - {fileID: 8300000, guid: 2a4da5e422f7d0048b93394dd4871345, type: 3}
+      - {fileID: 8300000, guid: f49d6d38f8ca309489eec9eea16def4d, type: 3}
+  - trigger: 1
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: fff4149f7e9629f4bb1181300756f35a, type: 3}
+  - trigger: 2
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: e6e03d26a1abab641b45f1f678e035bb, type: 3}
+  - trigger: 3
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: ee729c50eacd372408ac3498ca80ce42, type: 3}
+  - trigger: 4
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: 61d9bb19f39f59d4d862b1c232f78c78, type: 3}
+  - trigger: 5
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: 9fc74b5474982cc468a3f9bf6dc888c4, type: 3}
+  - trigger: 6
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: dcf07ca7e65ef8c41958242014922025, type: 3}
+  - trigger: 7
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: 6b6d870dd1d61a14f8b35b9e1e50af23, type: 3}
+  - trigger: 8
+    sound:
+      voiceClips:
+      - {fileID: 8300000, guid: 7fd45391ed108c6409372e945f3d73e7, type: 3}
+  metaData:
+    memo: 
+    url: 
